@@ -1,0 +1,16 @@
+
+
+.Student{
+    width: 200px;
+    height: auto;
+    background-color: #4CAF50;
+    color: white;
+    border: 2px solid #d11b1b;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
