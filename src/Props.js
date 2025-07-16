@@ -2,6 +2,8 @@ import react from "react";
 import './App.css';
 
 function Propos (props) {
+
+    
     return(
         <><div className="Student">
              <h1>Student Data</h1>
@@ -14,5 +16,7 @@ function Propos (props) {
         </>
     )
 }
+
+
 
 export default Propos;
